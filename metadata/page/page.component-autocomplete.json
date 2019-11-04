@@ -1,25 +1,26 @@
 {
-  "_id": "page.component-autocomplete",
+  "_id": "page.autocomplete",
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.component-autocomplete--autocomplete.auto_name__1",
+      "_id": "page.autocomplete--autocomplete.auto_name__1",
       "_type": "autocomplete",
+      "hint": "Autocomplete hint text",
       "items": [
         {
-          "_id": "page.component-autocomplete--autocomplete.auto_name__1--option",
+          "_id": "page.autocomplete--autocomplete.auto_name__1--option",
           "_type": "option",
           "text": "One",
           "value": "1"
         },
         {
-          "_id": "page.component-autocomplete--autocomplete.auto_name__1--option--2",
+          "_id": "page.autocomplete--autocomplete.auto_name__1--option--2",
           "_type": "option",
           "text": "Two",
           "value": "2"
         },
         {
-          "_id": "page.component-autocomplete--autocomplete.auto_name__1--option--3",
+          "_id": "page.autocomplete--autocomplete.auto_name__1--option--3",
           "_type": "option",
           "text": "Three",
           "value": "3"
@@ -29,5 +30,5 @@
       "name": "auto_name__1"
     }
   ],
-  "url": "component-autocomplete"
+  "url": "autocomplete"
 }

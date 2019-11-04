@@ -3,7 +3,7 @@
   "_type": "page.start",
   "heading": "Component - Autocomplete",
   "steps": [
-    "page.component-autocomplete",
+    "page.autocomplete",
     "page.check-answers"
   ],
   "url": "/"
